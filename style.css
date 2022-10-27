@@ -1,0 +1,22 @@
+body{
+    background-image: url(http://gabsferreira.com/content/images/2021/01/cover-pic.jpeg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;    
+}
+
+p{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000066;
+}
+#Titulo-Principal {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1000;
+    color: #000066;
+}
+
+#hs-4 {
+    color: #000066;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
